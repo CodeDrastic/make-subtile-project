@@ -5,8 +5,9 @@ This for a project that i want to work on for my python 2 ug .
 
 ```
 pip install PyQt5 moviepy deep-translator whisper langdetect
+pip install torch  #if not already installed
 ```
-
+* install ffmpeg for audio processing (https://ffmpeg.org/download.html)
 # Usage
 
 * Run the script:
